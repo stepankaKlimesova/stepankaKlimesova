@@ -2,7 +2,7 @@
 <h3 align="center">coffee & coffee</h3>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90748524/195600222-5d31bb00-db94-4755-b86b-572a4b3c4910.gif" height=30% width=50%>
+<img src="https://user-images.githubusercontent.com/90748524/195600222-5d31bb00-db94-4755-b86b-572a4b3c4910.gif" height=200px width=300px>
 </div>
 
 - 🔭 I’m currently working on [2D platformer game](https://github.com/stepankaKlimesova/Dlouhodoba_maturitni_prace)
