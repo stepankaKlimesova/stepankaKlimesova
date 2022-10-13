@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90748524/195600222-5d31bb00-db94-4755-b86b-572a4b3c4910.gif">
 </div>
-- I’m working on [2D platformer game](https://github.com/stepankaKlimesova/Dlouhodoba_maturitni_prace)
+- I’m working on  **2D platformer game**(https://github.com/stepankaKlimesova/Dlouhodoba_maturitni_prace)
 
 - 🌱 I’m currently learning **GDScript**
 
