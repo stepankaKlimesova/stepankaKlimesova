@@ -5,11 +5,9 @@
 <img src="https://user-images.githubusercontent.com/90748524/195600222-5d31bb00-db94-4755-b86b-572a4b3c4910.gif" height=250px width=300px>
 </div>
 
-- 🔭 I’m currently working on [2D platformer game](https://github.com/stepankaKlimesova/Dlouhodoba_maturitni_prace)
+- 🔭 I’m currently working on [2D top-down farm & rpg game](https://github.com/stepankaKlimesova/FarmGame)
 
-- 🌱 I’m currently learning **GDScript**
-
-- 💬 Ask me about **please don't**
+- 🌱 I’m currently learning **C#**
 
 - ⚡ Fun fact **hahahah**
 
